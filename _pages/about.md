@@ -21,3 +21,7 @@ Contact me: amacrutherford [at] gmail [dot] com
 PhD Student at the University of Oxford focusing on mult-agent reinforcement learning for robotics. Supervised by Prof. Nick Hawes, Dr. Bruno Lacerda and Prof. Jakob Foerster.
 
 Additionally, I help organise the [Tolkien Lecture](https://tolkienlecture.org/) at Pembroke College and have fenced for the University.
+
+**Blog Posts**
+
+- [JaxMARL: Multi-Agent RL Environments and Algorithms in JAX](https://blog.foersterlab.com/jaxmarl/)
