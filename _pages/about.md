@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 Contact me: amacrutherford [at] gmail [dot] com
 
-PhD Student at the University of Oxford focusing on mult-agent reinforcement learning for robotics. Supervised by Prof. Nick Hawes, Dr. Bruno Lacerda and Prof. Jakob Foerster.
+PhD Student at the University of Oxford focusing on multi-agent reinforcement learning for robotics. Supervised by Prof. Nick Hawes, Dr. Bruno Lacerda and Prof. Jakob Foerster.
 
 Additionally, I help organise the [Tolkien Lecture](https://tolkienlecture.org/) at Pembroke College and have fenced for the University.
 
