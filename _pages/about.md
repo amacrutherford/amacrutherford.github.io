@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Contact me: amacrutherford [at] gmail [dot] com
+Contact me: alexr [at] amac [dot] 33mail [dot] com
 
 PhD Student at the University of Oxford focusing on multi-agent reinforcement learning for robotics. Supervised by Prof. Nick Hawes, Dr. Bruno Lacerda and Prof. Jakob Foerster.
 
