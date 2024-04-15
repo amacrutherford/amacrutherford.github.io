@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Contact me: alexr [at] amac [dot] 33mail [dot] com
+Contact me: alexr [at] amac.33mail.com
 
 PhD Student at the University of Oxford focusing on multi-agent reinforcement learning for robotics. Supervised by Prof. Nick Hawes, Dr. Bruno Lacerda and Prof. Jakob Foerster.
 
@@ -25,3 +25,7 @@ Additionally, I help organise the [Tolkien Lecture](https://tolkienlecture.org/)
 **Blog Posts**
 
 - [JaxMARL: Multi-Agent RL Environments and Algorithms in JAX](https://blog.foersterlab.com/jaxmarl/)
+
+**Teaching**
+
+- College Lecturer in Engineering at Pembroke College, Oxford
